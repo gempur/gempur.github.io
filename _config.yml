@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gempur.github.io
+title: gempur`s yet another press
+tagline: nothing new under the sun.
+description: My awesome new site
+paginate: 5
