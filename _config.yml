@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://gempur.github.io
 title: gempur`s yet another press
 tagline: nothing new under the sun.
-description: My awesome new site
+description: 
 paginate: 5
